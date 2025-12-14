@@ -20,4 +20,4 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Chr1stanto&theme=blue_navy)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ch1rstanto&theme=blue_navy)<br/>
