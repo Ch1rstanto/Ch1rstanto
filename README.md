@@ -13,7 +13,7 @@
 <hr/>
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,hp,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,git,github,vscode,figma&theme=dark" />
 </div>
 
 ### 📈 Activity Graph
