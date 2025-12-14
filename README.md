@@ -18,6 +18,6 @@
 
 ### 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chr1tanto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Chr1stanto&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
